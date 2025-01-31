@@ -79,16 +79,9 @@ The dataset used in this project contains nutritional information and ingredient
 - `requirements.txt`: List of required Python libraries.
 - `dataset.csv`: The CSV file containing the recipe details (make sure to place the dataset in the correct directory).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - **Streamlit** for the interactive app framework.
 - **Scikit-Learn** for the machine learning models.
 - **Plotly** for data visualization.
-
----
-
-This README should provide an overview of the project, how to set it up, how it works, and the tools used. You can modify it based on the exact structure of your project and any additional features you may have added.
